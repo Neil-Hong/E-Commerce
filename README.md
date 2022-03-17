@@ -1,3 +1,18 @@
+# Introduction
+<p>This website is a simple online shopping website. It was developed in React framework with Bootstrap elements.</p>
+
+It is composed of shopping cart and checkout components. Products data was requested from external API fakestoreapi.com
+
+# Technology Stack
+
+React, JavaScript, Bootstrap, react-router-dom(V6), react-redux
+
+# Preview
+![image](https://github.com/Neil-Hong/E-Commerce/blob/main/public/assets/preview-1.png)
+![image](https://github.com/Neil-Hong/E-Commerce/blob/main/public/assets/preview-2.png)
+![image](https://github.com/Neil-Hong/E-Commerce/blob/main/public/assets/preview-3.png)
+![image](https://github.com/Neil-Hong/E-Commerce/blob/main/public/assets/preview-4.png)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
